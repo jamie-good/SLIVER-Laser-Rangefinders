@@ -22,7 +22,6 @@ void setup() {
 
 void loop() {
 
-  // LaserPING
   static char valueString[8];
   static int count = 0;
 
@@ -45,7 +44,6 @@ void loop() {
     }
   }
 
-// Parallax
 
   if (paraSerial.available() >= 11) {
     for (int i = 0; i < 11; i++) {
