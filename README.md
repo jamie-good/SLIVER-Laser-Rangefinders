@@ -9,6 +9,6 @@ Run the .ino files in this repository from the Arduino IDE.
 
 ## Repository Contents
 
-* [**/AdaFruitVL53L4CD_GarminLIDARLite_v4LED**](./AdaFruitVL53L4CD_GarminLIDARLite_v4LED.ino) -  Sketches and specs for the AdaFruit VL53L4CD and Garmin LIDARLite_v4LED. 
-* [**/JRT70m**](./JRT70m.ino) -  Sketches and specs for the JRT 70m Green Laser Distance Sensor. 
-* [**/ParallaxLaserPING**](./ParallaxLaserPING.ino) -  Sketches and specs for the Parallax LaserPING. 
+* [**/AdaFruitAndGarmin**](./AdaFruit_and_Garmin.ino) -  Sketches and specs for the AdaFruit VL53L4CD and Garmin LIDARLite_v4LED. 
+* [**/JRT**](./JRT70m/) -  Sketches and specs for the JRT 70m Green Laser Distance Sensor. 
+* [**/Parallax**](./Ping_and_Parallax.ino) -  Sketches and specs for the Parallax LaserPING. 
